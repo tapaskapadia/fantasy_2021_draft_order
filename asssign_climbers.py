@@ -1,6 +1,4 @@
 import random
-import os
-import webbrowser
 import json
 from datetime import datetime
 
@@ -46,4 +44,3 @@ for owner in team_owners:
 with open('owner_climber_assignments.json', 'w', encoding='utf-8') as f:
     print(f"writing to file: {output_filename}")
     json.dump(owner_climber_assignments, f,  ensure_ascii=False, indent=2)
-
