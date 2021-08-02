@@ -1,0 +1,132 @@
+[
+  {
+    "team_owner": "Taylor",
+    "climber_1": {
+      "name": "Colin Duffy",
+      "national_team": "United States",
+      "fact": "He is the youngest climber to qualify."
+    },
+    "climber_2": {
+      "name": "Ludovico Fossali ",
+      "national_team": "Italy",
+      "fact": "Has won the speed climbing gold medal at the 2019 in Japan"
+    }
+  },
+  {
+    "team_owner": "Damien",
+    "climber_1": {
+      "name": "Rishat Khaibullin",
+      "national_team": "Kazakhstan",
+      "fact": "From the same country as the fictional character Borat Margaret Sagdiyev."
+    },
+    "climber_2": {
+      "name": "Pan Yufei",
+      "national_team": "China",
+      "fact": "His instram handle is yfei_pan."
+    }
+  },
+  {
+    "team_owner": "Tapas",
+    "climber_1": {
+      "name": "Tomoa Narasaki",
+      "national_team": "Japan",
+      "fact": "He holds the Japanese record for speed climbing with a time of 5.73 seconds."
+    },
+    "climber_2": {
+      "name": "Tom O'Halloran",
+      "national_team": "Australia",
+      "fact": "He decided to come out of competition retirement in to make the Olympic team."
+    }
+  },
+  {
+    "team_owner": "Neel",
+    "climber_1": {
+      "name": "Michael Piccolruaz",
+      "national_team": "Italy",
+      "fact": "Qualified for the 2020 Summer Olympics after the IFSC reallocated spots that were unused due to cancelled competitions."
+    },
+    "climber_2": {
+      "name": "Kai Harada",
+      "national_team": "Japan",
+      "fact": "Qualified to the olympics in the 'host' spot. 👀"
+    }
+  },
+  {
+    "team_owner": "Alex",
+    "climber_1": {
+      "name": "Bassa Mawem",
+      "national_team": "France",
+      "fact": "His younger brother Mickaël is also a professional climber."
+    },
+    "climber_2": {
+      "name": "Alberto Ginés López ",
+      "national_team": "Spain",
+      "fact": "He placed second in the 2019 Lead Climbing World Cup."
+    }
+  },
+  {
+    "team_owner": "Sai",
+    "climber_1": {
+      "name": "Christopher Cosser",
+      "national_team": "South Africa",
+      "fact": "Started climbing in 2012 on a small school wall."
+    },
+    "climber_2": {
+      "name": "Jakob Schubert",
+      "national_team": "Austria",
+      "fact": "He is a World Champion (2012, 2018) and World Cup winner (2011, 2014, 2018) in lead climbing."
+    }
+  },
+  {
+    "team_owner": "Avery",
+    "climber_1": {
+      "name": "Alexander Megos",
+      "national_team": "Germany",
+      "fact": "Megos started climbing at the age of six."
+    },
+    "climber_2": {
+      "name": "Adam Ondra",
+      "national_team": "Czech Republic",
+      "fact": "According to The Economist, Ondra is 'regarded as possibly the best climber ever to fondle rock'."
+    }
+  },
+  {
+    "team_owner": "Justin",
+    "climber_1": {
+      "name": "Jan Hojer",
+      "national_team": "Germany",
+      "fact": "On May 2010, he climbed Action Directe, still considered to be one of the most difficult routes in the world."
+    },
+    "climber_2": {
+      "name": "Nathaniel Coleman",
+      "national_team": "United States",
+      "fact": "He was the first American male climber to qualify to the Olympic Games."
+    }
+  },
+  {
+    "team_owner": "Ajay",
+    "climber_1": {
+      "name": "Chon Jong-won",
+      "national_team": "Korea",
+      "fact": "In 2013, he won second place in the Asian youth championships."
+    },
+    "climber_2": {
+      "name": "Aleksei Rubtsov",
+      "national_team": "Russa",
+      "fact": "Opened and manages his own bouldering gym in the North of Moscow, called Toki.o"
+    }
+  },
+  {
+    "team_owner": "Nathan",
+    "climber_1": {
+      "name": "Mickaël Mawem",
+      "national_team": "France",
+      "fact": "His older brother Bassa is also a professional climber."
+    },
+    "climber_2": {
+      "name": "Sean McColl",
+      "national_team": "Canada",
+      "fact": "Competed in Ninja Warrior."
+    }
+  }
+]
